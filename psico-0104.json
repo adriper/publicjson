@@ -215,7 +215,7 @@
         "Endereço CS": "Casa Administrativa - UFSM Cachoeira do Sul"
       },
       "fw": {
-        "descricao": "O Serviço de Qualidade de Vida no Trabalho (QVT) da UFSM Frederico Westphalen está vinculada à Coordenadoria Administrativa do Campus e atua em consonância com a CQVS, do Campus Sede. A QVT tem por objetivo promover a saúde e a qualidade de vida no trabalho dos(as) servidores(as) da UFSM/FW, por meio da implementação de ações que atendam as suas necessidades e expectativas. O serviço desenvolve ações de:\n - Acolhimento e escuta aos(às) Servidores(as) – Atendimento/Escuta com profissional do Serviço Social\n- Acolhimento ao(à) Servidor(a) Ingressante\n- Rodas de Conversas com temáticas que envolvem a saúde e a qualidade de vida no trabalho\n- Atividades grupais voltadas à promoção da saúde física e mental no ambiente laboral: grupo de coral, grupo de aulas de pilates online, grupo de caminhada e grupo de artesanato.",
+        "descricao": "O Serviço de Qualidade de Vida no Trabalho (QVT) da UFSM Frederico Westphalen está vinculada à Coordenadoria Administrativa do Campus e atua em consonância com a CQVS, do Campus Sede. A QVT tem por objetivo promover a saúde e a qualidade de vida no trabalho dos(as) servidores(as) da UFSM/FW, por meio da implementação de ações que atendam as suas necessidades e expectativas. O serviço desenvolve ações de:<br /> - Acolhimento e escuta aos(às) Servidores(as) – Atendimento/Escuta com profissional do Serviço Social<br />- Acolhimento ao(à) Servidor(a) Ingressante<br />- Rodas de Conversas com temáticas que envolvem a saúde e a qualidade de vida no trabalho<br />- Atividades grupais voltadas à promoção da saúde física e mental no ambiente laboral: grupo de coral, grupo de aulas de pilates online, grupo de caminhada e grupo de artesanato.",
         "contatos": {
           "email": "qvtfw@ufsm.br",
           "predio": "Prédio 1, Térreo",
@@ -223,7 +223,7 @@
         }
       },
       "cs": {
-        "descricao": "A SASQV-CS tem como competência o planejamento, desenvolvimento e acompanhamento de ações voltadas à promoção da saúde e da qualidade de vida dos(as) servidores(as) do Campus da UFSM/CS.\n- Atendimentos Odontológicos para servidores do Campus UFSM/CS:\nOs servidores da UFSM/CS contam com a disponibilidade de 4 horários mensais para atendimentos odontológicos no Núcleo de Promoção de Saúde do Trabalho (NPSAT), no campus sede. A agenda é disponibilizada na primeira terça-feira do mês e os atendimentos ocorrem na última terça-feira, por ordem de inscrição.",
+        "descricao": "A SASQV-CS tem como competência o planejamento, desenvolvimento e acompanhamento de ações voltadas à promoção da saúde e da qualidade de vida dos(as) servidores(as) do Campus da UFSM/CS.<br />- Atendimentos Odontológicos para servidores do Campus UFSM/CS:<br />Os servidores da UFSM/CS contam com a disponibilidade de 4 horários mensais para atendimentos odontológicos no Núcleo de Promoção de Saúde do Trabalho (NPSAT), no campus sede. A agenda é disponibilizada na primeira terça-feira do mês e os atendimentos ocorrem na última terça-feira, por ordem de inscrição.",
         "contatos": {
           "email": "sasqv.cs@ufsm.br",
           "predio": "Casa Administrativa - UFSM Cachoeira do Sul"
