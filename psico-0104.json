@@ -1,0 +1,268 @@
+{
+  "pedagogico": {
+    "fw": {
+      "descricao": "\u003Cp\u003EO atendimento pedagógico é feito a partir do preenchimento do formulário eletrônico disponível acessando \u003Ca href=\"https://forms.gle/edgAhqrnHE7e3DdK8\"\u003Eaqui\u003C/a\u003E.\u003C/p\u003E",
+      "contatos": {
+        "telefone": "(55) 3744-0626",
+        "email": "pedagogico.fw@ufsm.br",
+        "sala": "11, Bloco II",
+        "site": "https://www.ufsm.br/unidades-universitarias/frederico-westphalen/servicos/atendimento-pedagogico",
+        "instagram": "https://www.instagram.com/dapfw.ufsm/"
+      },
+      "outroslocais": "\u003Cp\u003EPara informações sobre atividades coletivas e/ou outras ações, acesse: \u003Ca href=\"https://www.instagram.com/dapfw.ufsm/\"\u003E https://www.instagram.com/dapfw.ufsm/\u003C/a\u003E \u003C/p\u003E"
+    },
+    "pm": {
+      "descricao": "\u003Cp\u003EO atendimento pedagógico é feito por meio de solicitação através do e-mail ou presencial, na sala do setor.\u003C/p\u003E",
+      "contatos": {
+        "telefone": "(55)3742 8817",
+        "email": "uap.pm@ufsm.br",
+        "sala": "207",
+        "predio": "01 (Campus Palmeira das Missões)",
+        "site": "https://www.ufsm.br/unidades-universitarias/palmeira-das-missoes/unidade-de-apoio-pedagogico-uap",
+        "instagram": "https://www.instagram.com/uap.pm/"
+      }
+    },
+    "cs": {
+      "descricao": "\u003Cp\u003EO atendimento pedagógico é feito a partir do preenchimento do formulário eletrônico disponível acessando \u003Ca href=\"https://forms.gle/ijZw5nVrFZzGF3b48\"\u003Eaqui\u003C/a\u003E.\u003C/p\u003E",
+      "contatos": {
+        "email": "cs.pedagogico@ufsm.br",
+        "sala": "Sala 34",
+        "predio": "D2 (Campus Cachoeira do Sul)",
+        "site": "https://www.ufsm.br/unidades-universitarias/cachoeira-do-sul/nucleo-de-assistencia-aos-estudantes-e-servidores"
+      }
+    },
+    "ctism": {
+      "descricao": "\u003Cp\u003EO estudante do CTISM pode solicitar atendimento pedagógico individual a partir do preenchimento eletrônico disponível acessando \u003Ca href=\"https://docs.google.com/forms/d/e/1FAIpQLSdHzCUfMGKZqMcjOrsRJL_VOxQjBKpO_lk6c52T8G7DOSLGnA/viewform?usp",
+      "contatos": {
+        "telefone": "(55)3220-8042",
+        "email": "ensino@ctism.ufsm.br",
+        "sala": "111",
+        "predio": "05",
+        "site": "https://www.ufsm.br/unidades-universitarias/ctism",
+        "outros": "Na UFSM você encontra diferentes possibilidades de ações coletivas e/ou atividades em grupo relacionadas às questões de saúde mental e apoio pedagógico, como rodas de conversas, treinamentos, capacitações e eventos.\u003Cbr /\u003EConfira essas atividades com o Departamento de Ensino"
+      }
+    },
+    "ct": {
+      "descricao": "\u003Cp\u003EO estudante do CT pode solicitar atendimento pedagógico individual a partir do preenchimento eletrônico disponível acessando \u003Ca href=\"https://docs.google.com/forms/d/e/1FAIpQLSdHzCUfMGKZqMcjOrsRJL_VOxQjBKpO_lk6c52T8G7DOSLGnA/viewform?usp\"\u003E aqui \u003C/a\u003E",
+      "contatos": {
+        "telefone": "(55)3220-0000",
+        "email": "sapct@ufsm.br",
+        "sala": "136",
+        "predio": "07",
+        "site": "https://www.ufsm.br/unidades-universitarias/ct/unidade-de-apoio-pedagogico-uap-ct",
+        "outros": "Na UFSM você encontra diferentes possibilidades de ações coletivas e/ou atividades em grupo relacionadas às questões de saúde mental e apoio pedagógico, como rodas de conversas, treinamentos, capacitações e eventos. Confira essas atividades com o SAP/CT"
+      }
+    },
+    "ce": {
+      "descricao": "\u003Cp\u003EO estudante do CE pode solicitar atendimento pedagógico individual a partir do preenchimento eletrônico disponível acessando \u003Ca href=\"https://forms.gle/zvpB2Q9j4rL2EHbV9\"\u003Eaqui\u003C/a\u003E.\u003C/p\u003E",
+      "contatos": {
+        "telefone": "(55)3220-8139 / (55)99635-8605 (whats)",
+        "email": "uapeducacao@gmail.com",
+        "sala": "118",
+        "predio": "16 B",
+        "site": "https://www.ufsm.br/unidades-universitarias/ce/uap-rede-integrare-unidade-de-apoio-pedagogico",
+        "outros": "Na UFSM você encontra diferentes possibilidades de ações coletivas e/ou atividades em grupo relacionadas às questões de saúde mental e apoio pedagógico, como rodas de conversas, treinamentos, capacitações e eventos. Confira essas atividades com o SAP/CE"
+      }
+    },
+    "ccne": {
+      "descricao": "\u003Cp\u003EO estudante do CCNE pode solicitar atendimento pedagógico individual a partir do preenchimento eletrônico disponível acessando \u003Ca href=\"https://docs.google.com/forms/d/e/1FAIpQLSfXuBgi47Y3dCt9GwFZaNh675xyfs1FS518OIF1D5_ij76lFg/viewform\"\u003Eaqui\u003C/a\u003E. \u003Cbr /\u003EPara além do atendimento individualizado, o Setor de Atendimento Pedagógico do CCNE organiza a Central de Tutoria nas áreas de Matemática, Química, Física, Estatística, Biologia, Geografia e Apoio a projetos (escrita de TCCs e relatórios). Acesse o site \u003Ca href=\"https://www.ufsm.br/unidades-universitarias/ccne/apoio-pedagogico/central-de-tutoria\"\u003Ehttps://www.ufsm.br/unidades-universitarias/ccne/apoio-pedagogico/central-de-tutoria \u003C/a\u003E para conferir horários e locais.\u003C/p\u003E",
+      "contatos": {
+        "telefone": "(55)3220-8735",
+        "email": "apoiopedagogico.ccne@ufsm.br",
+        "sala": "118",
+        "predio": "13",
+        "site": "https://www.ufsm.br/unidades-universitarias/ccne/apoio-pedagogico",
+        "outros": "Na UFSM você encontra diferentes possibilidades de ações coletivas e/ou atividades em grupo relacionadas às questões de saúde mental e apoio pedagógico, como rodas de conversas, treinamentos, capacitações e eventos. Confira essas atividades com o SAP/CCNE"
+      }
+    },
+    "ccs": {
+      "descricao": "\u003Cp\u003EO estudante do CCS pode solicitar atendimento pedagógico individual a partir do preenchimento eletrônico disponível acessando \u003Ca href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWYGz2PbVhG9SmiGh-XiSaRnVUK9JbnScSkiLHTKd0f5qVCQ/viewform\"\u003Eaqui\u003C/a\u003E.\u003C/p\u003E",
+      "contatos": {
+        "telefone": "(55) 3220-9532",
+        "email": "uapccs@ufsm.br",
+        "sala": "1445",
+        "predio": "26A",
+        "site": "https://www.ufsm.br/unidades-universitarias/ccs/setor-de-apoio-pedagogico",
+        "outros": "Na UFSM você encontra diferentes possibilidades de ações coletivas e/ou atividades em grupo relacionadas às questões de saúde mental e apoio pedagógico, como rodas de conversas, treinamentos, capacitações e eventos. Confira essas atividades com a UAP/CCS."
+      }
+    },
+    "cal": {
+      "descricao": "\u003Cp\u003EO estudante do CAL pode solicitar atendimento pedagógico individual a partir do preenchimento do formulário eletrônico disponível acessando \u003Ca href=\"https://forms.gle/dQZ168PMwHELXYFF9\"\u003Eaqui\u003C/a\u003E.\u003C/p\u003E",
+      "contatos": {
+        "telefone": "(55) 3220-8677",
+        "email": "uap.cal@ufsm.br",
+        "sala": "1205",
+        "predio": "40",
+        "site": "https://www.ufsm.br/unidades-universitarias/cal/unidade-de-apoio-pedagogico-uap-cal",
+        "outros": "Na UFSM você encontra diferentes possibilidades de ações coletivas e/ou atividades em grupo relacionadas às questões de saúde mental e apoio pedagógico, como rodas de conversas, treinamentos, capacitações e eventos. Confira essas atividades com o SAP/CAP."
+      }
+    },
+    "ccr": {
+      "descricao": "\u003Cp\u003EO estudante do CCR pode solicitar atendimento pedagógico individual a partir do preenchimento eletrônico disponível acessando \u003Ca href=\"https://forms.gle/joTsgozQFU1iZve66\"\u003Eaqui\u003C/a\u003E.\u003C/p\u003E",
+      "contatos": {
+        "telefone": "(55) 3220-8403 ",
+        "email": "apoio.pedagogico.ccr@ufsm.br",
+        "sala": "3129",
+        "predio": "42 A",
+        "site": "https://www.ufsm.br/unidades-universitarias/ccr/setor-de-apoio-pedagogico-sap",
+        "outros": "Na UFSM você encontra diferentes possibilidades de ações coletivas e/ou atividades em grupo relacionadas às questões de saúde mental e apoio pedagógico, como rodas de conversas, treinamentos, capacitações e eventos. Confira essas atividades com o SAP/CCR."
+      }
+    },
+    "ccsh": {
+      "descricao": "\u003Cp\u003EO estudante do CCSH pode solicitar atendimento pedagógico individual a partir do preenchimento eletrônico disponível acessando \u003Ca href=\"https://forms.gle/rU1b6mLH3v4WrhyW7\"\u003Eaqui\u003C/a\u003E.\u003C/p\u003E",
+      "contatos": {
+        "telefone": "(55)3220-9554",
+        "email": "apoiopedagogico.ccsh@ufsm.br",
+        "sala": "4102",
+        "predio": "74 C",
+        "site": "https://www.ufsm.br/unidades-universitarias/ccsh/unidade-de-apoio-pedagogico",
+        "outros": "Na UFSM você encontra diferentes possibilidades de ações coletivas e/ou atividades em grupo relacionadas às questões de saúde mental e apoio pedagógico, como rodas de conversas, treinamentos, capacitações e eventos. Confira essas atividades com o SAP/CCS."
+      }
+    },
+    "cefd": {
+      "descricao": "\u003Cp\u003EO estudante do CEFD pode solicitar atendimento pedagógico individual a partir do preenchimento eletrônico disponível acessando \u003Ca href=\"https://docs.google.com/forms/d/e/1FAIpQLScO7ME7_2mJ6wIIdpMYdoK5Pu0JJQrfi0iXIVqqbcQ8QsOzhA/viewform?usp",
+      "contatos": {
+        "telefone": "(55)3220-6154",
+        "email": "apoiopedagogico.cefd@ufsm.br",
+        "sala": "2024",
+        "predio": "51",
+        "site": "https://www.ufsm.br/unidades-universitarias/cefd/unidade-de-apoio-pedagogico",
+        "outros": "Na UFSM você encontra diferentes possibilidades de ações coletivas e/ou atividades em grupo relacionadas às questões de saúde mental e apoio pedagógico, como rodas de conversas, treinamentos, capacitações e eventos. Confira essas atividades com o SAP/CEFD."
+      }
+    },
+    "poli": {
+      "descricao": "\u003Cp\u003EO estudante do POLITÉCNICO pode solicitar atendimento pedagógico individual a partir do preenchimento eletrônico disponível acessando \u003Ca href=\"https://docs.google.com/forms/d/1pLIQPJr7fcO389gA8Td4k7vMZW2BaoNAaBw635XOEf8/edit\"\u003Eaqui\u003C/a\u003E.\u003C/p\u003E",
+      "contatos": {
+        "telefone": "(55) 3220 9419",
+        "email": "direcaodeensino@politecnico.ufsm.br",
+        "sala": "119 ou 120 B",
+        "predio": "Bloco A",
+        "site": "https://www.ufsm.br/unidades-universitarias/politecnico",
+        "outros": "Na UFSM você encontra diferentes possibilidades de ações coletivas e/ou atividades em grupo relacionadas às questões de saúde mental e apoio pedagógico, como rodas de conversas, treinamentos, capacitações e eventos. Confira essas atividades com o Departamento de Ensino."
+      }
+    },
+    "ueiia": {
+      "descricao": "\u003Cp\u003EO atendimento pedagógico é feito a partir do preenchimento do formulário eletrônico disponível acessando \u003Ca href=\"https://forms.gle/8u3ALaED9Zv1UvDa9\"\u003Eaqui\u003C/a\u003E.\u003C/p\u003E",
+      "contatos": {
+        "telefone": "(55)3220-8110",
+        "email": "depe.ipeamarelo@ufsm.br",
+        "sala": "01",
+        "predio": "04",
+        "site": "https://www.ufsm.br/unidades-universitarias/ipeamarelo",
+        "outros": "Na UFSM você encontra diferentes possibilidades de ações coletivas e/ou atividades em grupo relacionadas às questões de saúde mental e apoio pedagógico, como rodas de conversas, treinamentos, capacitações e eventos. Confira essas atividades com o Departamento de Ensino, Pesquisa e Extensão."
+      }
+    },
+    "caed": "\u003Cul\u003E\u003Cli\u003E Curso Potencializando a Aprendizagem com diferentes estratégias de estudos.\u003C/li\u003E\u003Cli\u003EOrientação Profissional\u003C/li\u003EAcesse o site da CAED para solicitar esses esses serviços e verificar eventos e outras atividades relacionadas à área pedagógica: \u003Ca href=\"https://www.ufsm.br/pro-reitorias/prograd/caed/nucleo-de-aprendizagem\"\u003E clicando aqui\u003C/a\u003E",
+    "ceu": {
+      "satie": "\u003Cul\u003E\u003Cli\u003EAcolhimento\u003C/li\u003E\u003Cli\u003EGrupos terapêuticos\u003C/li\u003E\u003Cli\u003EOficinas\u003C/li\u003E\u003Cli\u003ERodas de conversa\u003C/li\u003EAcesse o site do SATIE para solicitar esses esses serviços e verificar eventos e outras atividades: \u003Ca href=\"https://www.ufsm.br/pro-reitorias/prae/categorias-de-servico/assistencia-estudantil\"\u003Eclique aqui\u003C/a\u003E"
+    }
+  },
+  "psicologico": {
+    "aluno": {
+      "sm": {
+        "descricao": "\u003Ch3\u003EAtendimento Psicológico CAED/PROGRAD\u003C/h3\u003E\u003Cp\u003EPara ter acesso ao serviço de \u003Cstrong\u003EEscuta Psicológica de Acolhimento em Saúde Mental\u003C/strong\u003E é necessário preencher o formulário de solicitação, acompanhado de um \u003Cstrong\u003Eservidor da UFSM \u003C/strong\u003E(o encaminhamento pode ser feito pela Secretaria/Coordenação do seu curso ou Unidade de Apoio Pedagógico do seu Centro). Após o preenchimento, a secretaria da CAEd entrará em contato com você via e-mail institucional para o agendamento. Mais informações e o link para o formulário estão disponíveis \u003Ca href='https://www.ufsm.br/pro-reitorias/prograd/caed/servicos/solicitacao-de-escuta-psicologica-de-acolhimento-em-saude-mental'\u003E clicando aqui\u003C/a\u003E. \u003Cbr\u003E\u003Cbr\u003EA \u003Cstrong\u003ECAEd\u003C/strong\u003E também oferta Grupos e Oficinas em Saúde Mental, que são abertos para todos os estudantes da UFSM: Conheça as propostas e as informações específicas de cada atividade \u003Ca href='https://www.ufsm.br/pro-reitorias/prograd/caed/servicos/grupos-e-oficinas-em-saude-mental'\u003Eclicando aqui\u003C/a\u003E\u003C/p\u003E",
+        "ceu": {
+          "descricao": "\u003Cp\u003EPara atendimento psicológico no SATIE/PRAE, é preciso que você seja encaminhado por um(a) servidor(a) da UFSM. Procure a coordenação do curso ou o setor/unidade de apoio pedagógico da sua unidade para que ele(a) faça o seu encaminhamento. Mais informações \u003Ca href=\"https://www.ufsm.br/pro-reitorias/prae/servicos/acolhimento-em-saude-mental-2\"\u003Eclique aqui\u003C/a\u003E\u003C/p\u003E"
+        },
+        "outroslocais": "Elencamos aqui espaços com atendimento psicológico em  Santa Maria: \u003Cul\u003E\u003Cli\u003E\u003Cstrong\u003EVia SUS:\u003C/strong\u003E buscar atendimento no posto de saúde de seu bairro para encaminhamento a atendimento psicológico. \u003C/li\u003E\u003C/ul\u003EContato de clínicas-escolas que possuem atendimento psicológico (psicoterapia): \u003Cul\u003E\u003Cli\u003E\u003Cstrong\u003ECEIP - UFSM\u003C/strong\u003E - Clínica escola. \u003Cbr\u003EContato: \u003Ca href=\"mailto:ufsmceip@gmail.com\"\u003Eufsmceip@gmail.com\u003C/a\u003E\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003ESOBRESP\u003C/strong\u003E\u003Cbr\u003EFone: \u003Ca href=\"tel:5599330491\"\u003E(55) 9933-0491\u003C/a\u003E \u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EFISMA\u003C/strong\u003E - Clínica escola. Policlínica Wilson Aita, 5º andar, junto ao Hospital de Caridade Astrogildo de Azevedo). \u003Cbr\u003EFone: \u003Ca href=\"tel:5530269612\"\u003E (55) 3026-9612\u003C/a\u003E, Whatsapp \u003Ca href=\"tel:99084594\"\u003E9908-4594\u003C/a\u003E\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EULBRA\u003C/strong\u003E - Clínica escola. Atendimento e orientação profissional. Campus ULBRA SM Prédio 3 - térreo. De segunda a sexta-feira, das 14h às 20h. \u003Cbr\u003ETelefone: \u003Ca href=\"tel:5532142333\"\u003E  (55) 3214.2333 (ramal 312) \u003C/a\u003E. E-mail: \u003Ca href=\"mailto:clinicaescolapsicologia.santamaria@ulbra.br\"\u003Eclinicaescolapsicologia.santamaria@ulbra.br\u003C/a\u003E\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EUFN\u003C/strong\u003E - Clínica escola. Laboratório de Práticas em Psicologia e PAIP. \u003Cbr\u003EFone \u003Ca href=\"tel:30259070\"\u003E3025-9070\u003C/a\u003E. \u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EPsicoMais\u003C/strong\u003E - Clínica Social. Contato: \u003Ca href=\"tel:5533079722\"\u003E(55) 3307-9722\u003C/a\u003E e WhatsApp: \u003Ca href=\"tel:55999961930\"\u003E(55) 99996-1930\u003C/a\u003E\u003C/li\u003E\u003Cli\u003EO \u003Cstrong\u003Ediretório acadêmico do curso de psicologia da UFSM (DAPSI UFSM)\u003C/strong\u003E tem uma lista de profissionais de psicologia que realizam atendimento social.Para acessá-la, entrar no link da bio do instagram (@dapsiufsm) e clicar em Atendimento Psicológico - Comunidade em Geral. \u003C/li\u003E\u003C/p\u003E"
+      },
+      "fw": {
+        "descricao": "O atendimento psicológico é feito a partir do preenchimento do formulário eletrônico disponível acessando \u003Ca href=\"https://forms.gle/LnGXQUkuguNaZAtx8\"\u003Eaqui\u003C/a\u003E\u003C/p\u003E",
+        "contatos": {
+          "email": "psicologico.fw@ufsm.br",
+          "telefone": "(55) 3744-0606",
+          "sala": "Sala 11, Bloco II",
+          "site": "https://www.ufsm.br/unidades-universitarias/frederico-westphalen/servicos/atendimento-psicologico",
+          "instagram": "https://www.instagram.com/naeufsmfw/"
+        },
+        "outroslocais": "\u003Cul\u003E\u003Cli\u003E\u003Cstrong\u003EPosto de Saúde Central\u003C/strong\u003E\u003Cbr\u003ERua Vinte e Um de Abril, 152, Centro, \u003Ca href=\"tel:5537446922\"\u003E(55)3744-6922\u003C/a\u003E. Atendimento médico e psicológico. As demais Unidades Básicas de Saúde (UBS) dispõem de atendimento médico e realizam os devidos encaminhamentos, quando necessário.\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003ECentro de Atenção Psicossocial - CAPS\u003C/strong\u003E\u003Cbr\u003E\u003Ca href=\"tel:5537441290\"\u003E(55)3744-1290\u003C/a\u003E. Mediante encaminhamento da UBS de referência;\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EClínica-Escola do Curso de Psicologia - URI/FW\u003C/strong\u003E\u003Cbr\u003ERua Assis Brasil, 709, Itapagé, Prédio 10 - Bloco B (térreo). \u003Ca href=\"tel:5537449279\"\u003E(55)3744-9279\u003C/a\u003E. Atendimento psicológico.\u003C/li\u003E\u003Cul\u003E"
+      },
+      "pm": {
+        "descricao": "\u003Cp\u003EO atendimento psicológico é feito a partir do preenchimento do formulário eletrônico disponível acessando \u003Ca href=\"https://forms.gle/79ceH6vC5EUyNPPo7\"\u003Eaqui\u003C/a\u003E.\u003C/p\u003E",
+        "outroslocais": "Para atendimento psicológico e/ou psiquiátrico na rede de atenção à saúde do município, você deve consultar na unidade básica do seu bairro, onde serão feitos os devidos encaminhamentos.\u003C/p\u003E",
+        "contatos": {
+          "email": "psicologia.pm@ufsm.br",
+          "telefone": "(55) 3742-8819",
+          "sala": "Sala 218",
+          "predio": "01",
+          "site": "https://www.ufsm.br/unidades-universitarias/palmeira-das-missoes/nap-nucleo-de-apoio-pedagogico",
+          "instagram": "https://www.instagram.com/nap.ufsmpm/"
+        }
+      },
+      "cs": {
+        "descricao": "\u003Cp\u003EO atendimento psicológico é feito a partir do preenchimento do formulário eletrônico disponível acessando \u003Ca href=\"https://forms.gle/mH61cBLa17SzfSgX9\"\u003E aqui\u003C/a\u003E.",
+        "contatos": {
+          "telefone": "51 98983-0184",
+          "email": "cs.psicologia@ufsm.br ",
+          "sala": "Sala 10",
+          "predio": "D2 (Campus Cachoeira do Sul)",
+          "site": "https://www.ufsm.br/unidades-universitarias/cachoeira-do-sul/divisao-de-apoio-pedagogico",
+          "instagram": "https://www.instagram.com/naesufsmcs/"
+        }
+      }
+    },
+    "servidor": {
+      "descricao": "Serviços ofertados pela Coordenadoria de Qualidade de Vida (CQVS) da PROGEP:\u003Cp\u003E\u003Cul\u003E\u003Cli\u003E\u003Cstrong\u003EServiço odontológico\u003C/strong\u003E\u003C/li\u003E \u003Cli\u003E\u003Cstrong\u003EServiço Psicossocial\u003C/strong\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003EO atendimento psicossocial é feito a partir do preenchimento do formulário eletrônico disponível acessando \u003Ca href=\"https://forms.gle/8u3ALaED9Zv1UvDa9\"\u003Eaqui\u003C/a\u003E",
+      "contatos": {
+        "email": "cqvs@ufsm.br",
+        "telefone": "(55) 3220 8134",
+        "endereco": "Unidade de Atenção à Saúde Ocupacional do Servidor da UFSM - Prédio 48C",
+        "UFSM/FW": "Serviço de Qualidade de Vida no Trabalho",
+        "Email FW": "qvtfw@ufsm.br",
+        "Endereço FW": "Prédio 1, Térreo, Sala 04B, UFSM Frederico Westphalen",
+        "UFSM/CS": "Subdivisão de Assistência à Saúde e Qualidade de Vida",
+        "Email CS": "sasqv.cs@ufsm.br",
+        "Endereço CS": "Casa Administrativa - UFSM Cachoeira do Sul"
+      },
+      "fw": {
+        "descricao": "O Serviço de Qualidade de Vida no Trabalho (QVT) da UFSM Frederico Westphalen está vinculada à Coordenadoria Administrativa do Campus e atua em consonância com a CQVS, do Campus Sede. A QVT tem por objetivo promover a saúde e a qualidade de vida no trabalho dos(as) servidores(as) da UFSM/FW, por meio da implementação de ações que atendam as suas necessidades e expectativas. O serviço desenvolve ações de:\n - Acolhimento e escuta aos(às) Servidores(as) – Atendimento/Escuta com profissional do Serviço Social\n- Acolhimento ao(à) Servidor(a) Ingressante\n- Rodas de Conversas com temáticas que envolvem a saúde e a qualidade de vida no trabalho\n- Atividades grupais voltadas à promoção da saúde física e mental no ambiente laboral: grupo de coral, grupo de aulas de pilates online, grupo de caminhada e grupo de artesanato.",
+        "contatos": {
+          "email": "qvtfw@ufsm.br",
+          "predio": "Prédio 1, Térreo",
+          "sala": "Sala 04B, UFSM Frederico Westphalen"
+        }
+      },
+      "cs": {
+        "descricao": "A SASQV-CS tem como competência o planejamento, desenvolvimento e acompanhamento de ações voltadas à promoção da saúde e da qualidade de vida dos(as) servidores(as) do Campus da UFSM/CS.\n- Atendimentos Odontológicos para servidores do Campus UFSM/CS:\nOs servidores da UFSM/CS contam com a disponibilidade de 4 horários mensais para atendimentos odontológicos no Núcleo de Promoção de Saúde do Trabalho (NPSAT), no campus sede. A agenda é disponibilizada na primeira terça-feira do mês e os atendimentos ocorrem na última terça-feira, por ordem de inscrição.",
+        "contatos": {
+          "email": "sasqv.cs@ufsm.br",
+          "predio": "Casa Administrativa - UFSM Cachoeira do Sul"
+        }
+      }
+    }
+  },
+  "risco": {
+    "sm": {
+      "descricao": "\u003Cp\u003ERespire fundo e tente manter a calma, dentro do possível! Se a situação estiver ocorrendo nas dependências do campus da UFSM, acione o \u003Cstrong\u003EServiço de Emergência Universitário (SEU)\u003C/strong\u003E pelo telefone \u003Ca href='tel:55991974769'\u003E(55) 99197-4769\u003C/a\u003E das 7h às 19h. \u003Cbr\u003E\u003Cbr\u003E\u003Cstrong\u003EObservação:\u003C/strong\u003E caso esteja fora do campus ou esteja fora do horário de funcionamento do SEU, ligue para o \u003Cstrong\u003E SAMU  (Serviço de Atendimento Móvel de Urgência)\u003C/strong\u003E Ligue \u003Ca href=\"tel:192\"\u003E192\u003C/a\u003E. \u003Cp\u003EVocê também pode conversar com alguém por meio do número \u003Ca href=\"tel:188\"\u003E188\u003C/a\u003E ou acessando o chat 24h (\u003Ca href=\"https://cvv.org.br/chat/\"\u003Ehttps://cvv.org.br/chat/\u003C/a\u003E).\u003C/p\u003E Esperamos que fique tudo bem. Se precisar de outros tipo de atendimento, retorne ao menu principal\u003C/p\u003E"
+    },
+    "fw": {
+      "descricao": "\u003Cp\u003ESe você ou alguém que você conhece está numa situação de risco em saúde mental (por exemplo: ideação suicida ou grave agitação psicomotora), você pode acionar o SAMU (\u003Ca href=\"tel:192\"\u003E192\u003C/a\u003E) ou comparecer a um serviço de Pronto Atendimento. Em Frederico Westphalen:\u003C/p\u003E\u003Cul\u003E\u003Cli\u003E\u003Cstrong\u003EHospital Divina Providência (HDP)\u003C/strong\u003E\u003Cbr\u003ERua Sete de Setembro, nº 90, Centro \u003Cbr\u003E \u003Ca href=\"tel:5537444808\"\u003E(55) 3744-4808\u003C/a\u003E\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EUnidade de Pronto Atendimento (UPA)\u003C/strong\u003E\u003Cbr\u003ERua Guararapes, nº 78, Bairro Fátima. \u003Cbr\u003E \u003Ca href=\"tel:553744 5007\"\u003E(55) 3744-5007\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003EVocê também pode conversar com alguém por meio do número \u003Ca href=\"tel:188\"\u003E188\u003C/a\u003E ou acessando o chat 24h (\u003Ca href=\"https://cvv.org.br/chat/\"\u003Ehttps://cvv.org.br/chat/\u003C/a\u003E)\u003C/p\u003E\u003Cp\u003ELocais que contam com atendimento em saúde mental em Frederico Westphalen: \u003Cul\u003E\u003Cli\u003E\u003Cstrong\u003EPosto de Saúde Central\u003C/strong\u003E\u003Cbr\u003ERua Vinte e Um de Abril, 152, Centro. \u003Ca href=\"5537446922\"\u003E(55) 3744 6922\u003C/a\u003E. Atendimento médico e psicológico. As demais Unidades Básicas de Saúde (UBS) dispõem de atendimento médico e realizam os devidos encaminhamentos, quando necessário.\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003ECentro de Atenção Psicossocial - CAPS\u003C/strong\u003E\u003Cbr\u003ERua Dr. Tranqüilo Damo, 72, Centro. \u003Ca href=\"5537441290\"\u003E(55) 3744 1290\u003C/a\u003E. Mediante encaminhamento da UBS de referência;\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EClínica-Escola do Curso de Psicologia - URI/FW\u003C/strong\u003E\u003Cbr\u003ERua Assis Brasil, 709, Itapagé, Prédio 10 - Bloco B (térreo). \u003Ca href=\"tel:5537449279\"\u003E(55) 3744-9279\u003C/a\u003E. Atendimento psicológico.\u003C/li\u003E\u003C/ul\u003E\u003C/p\u003E"
+    },
+    "pm": {
+      "descricao": "\u003Cp\u003ESe você ou alguém que você conhece está numa situação de risco em saúde mental (por exemplo: ideação suicida ou grave agitação psicomotora), você pode acionar o SAMU (\u003Ca href=\"tel:192\"\u003E192\u003C/a\u003E) ou compareça a um serviço de Pronto Atendimento. Em Palmeira das Missões:\u003C/p\u003E\u003Cul\u003E\u003Cli\u003E\u003Cstrong\u003EHospital de Caridade de Palmeira das Missões\u003C/strong\u003E\u003Cbr\u003ERua Marechal Deodoro, 251 Centro \u003Ca href=\"tel:5537429000\"\u003E(55) 3742-9000\u003C/a\u003E - \u003Ca href=\"tel:5537421003\"\u003E(55)3742-1003\u003C/a\u003E  \u003Ca href=\"tel:55996812365\"\u003E(55)996812365\u003C/a\u003E - \u003Ca href=\"tel:55996337925\"\u003E(55)996337925\u003C/a\u003E \u003Cbr\u003EPalmeira das Missões - RS\u003C/li\u003E\u003C/ul\u003E\u003Cbr\u003E\u003Cbr\u003E\u003Cp\u003EVocê também pode conversar com alguém por meio do número 188 ou acessando o chat 24h (\u003Ca href=\"https://cvv.org.br/chat/\"\u003Ehttps://cvv.org.br/chat/\u003C/a\u003E).\u003C/p\u003E"
+    },
+    "cs": {
+      "descricao": "\u003Cp\u003ESe você ou alguém que você conhece está numa situação de risco em saúde mental (por exemplo: ideação suicida ou grave agitação psicomotora), você pode acionar o \u003Cstrong\u003ESAMU\u003C/strong\u003E (\u003Ca href\"tel:192\"\u003E192\u003C/a\u003E) ou compareça a um serviço de Pronto Atendimento. Em Cachoeira do Sul:\u003C/p\u003E \u003Cul\u003E\u003Cli\u003E\u003Cstrong\u003EHospital de Caridade e Beneficência\u003C/strong\u003E\u003Cbr\u003ERua Saldanha Marinho, 48 Centro \u003Ca href=\"tel:5137220800\"\u003E(51) 3722-0800\u003C/a\u003E\u003C/li\u003E \u003Cli\u003E\u003Cstrong\u003EUnidade de Pronto Atendimento\u003C/strong\u003E\u003Cbr\u003EAv. Brasil, 2285 - Medianeira \u003Ca href=\"tel:5137220888\"\u003E(51) 3722-0888\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cbr\u003E\u003Cp\u003EVocê também pode conversar com alguém por meio do número \u003Ca href=\"tel:188\"\u003E188\u003C/a\u003E ou acessando o chat 24h (\u003Ca href=\"https://cvv.org.br/chat/\"\u003Ehttps://cvv.org.br/chat/\u003C/a\u003E).\u003C/p\u003E"
+    }
+  },
+  "casa_veronica": {
+    "descricao": "A \u003Cstrong\u003ECasa Verônica\u003C/strong\u003E é um serviço multiprofissional que desenvolve atividades relacionadas à promoção da \u003Cstrong\u003EIgualdade de Gênero na UFSM\u003C/strong\u003E, entre estas o atendimento psicossocial para situação de sofrimento psíquico relacionadas às questões de gênero, tais como:  identidade, orientação sexual, violência de gênero, entre outras.\u003Cbr\u003E \u003Cbr\u003EVocê pode solicitar atendimento psicossocial a partir do preenchimento do formulário eletrônico disponível acessando \u003Ca href=\"https://docs.google.com/forms/d/e/1FAIpQLSenoS74UiU5vySHbNVqu0p5SrM5FTR9U8UEsm6VM38u_XO6yw/viewform\"\u003Eaqui\u003C/a\u003E.",
+    "contatos": {
+      "telefone": "(55) 32209335",
+      "whatsapp": "(55) 9159-8978",
+      "email": "acolhimentocv@ufsm.br",
+      "sala": "204",
+      "predio": "30 (fundos da Biblioteca central)",
+      "site": "https://www.ufsm.br/pro-reitorias/pre/observatorio-de-direitos-humanos/casa-veronica"
+    }
+  },
+  "acolhimento_enfermagem_fw": {
+    "descricao": "O atendimento é destinado a servidores e estudantes, com avaliação inicial (aferição de sinais vitais), orientação e encaminhamento para os serviços adequados conforme a necessidade. Quando indicado e havendo interesse do usuário, é oferecida também auriculoterapia como prática complementar de cuidado.",
+    "contatos": {
+      "email": "sasfw@ufsm.br",
+      "sala": "Sala 106",
+      "telefone": "(55) 99152 8015",
+      "predio": "Prédio 5, térreo"
+    }
+  }
+}
